@@ -1,0 +1,59 @@
+h1 {
+  font-family: "Outfit", sans-serif;
+  font-weight: 600;
+  font-size: 40px;
+}
+h2 {
+  color: hsl(14, 45%, 36%);
+  font-family: "Outfit", sans-serif;
+}
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.prep {
+  background-color: hsl(30, 18%, 87%);
+  margin: 50px;
+  padding: 20px;
+  line-height: 1.5;
+  width: 100%;
+  font-size: 18px;
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.ingred,
+.instruct {
+  line-height: 1.5;
+  font-size: 18px;
+  border-bottom: 1px solid #d3d3d3;
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+td {
+  border: 1px solid #d3d3d3;
+  padding: 8px;
+  text-align: left;
+}
+.attribution {
+  font-size: 16px;
+  text-align: center;
+  margin-top: 20px;
+  font-family: "Young Serif", serif;
+  font-weight: 200;
+  font-style: normal;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
